@@ -1,7 +1,10 @@
 # CourseProject
 
-Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
+Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities
 
+[Project Final Documentation](https://github.com/pshreyareddy/CourseProject/blob/main/CS410FinalProjectDocumentation.pdf)
+
+[Software Project Demo Video Link](https://mediaspace.illinois.edu/media/t/1_o3mmajau)
 # Text Classification Competition: Twitter Sarcasm Detection 
 (https://github.com/CS410Fall2020/ClassificationCompetition)
 
